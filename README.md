@@ -1,3 +1,7 @@
+# GitHubs Commands
+
+This cheat sheet is for easy access to Git commands when needed.
+
 ## Delete all commit history in GitHub
 
 1. **Checkout/create orphan branch** (this branch won't show in `git branch` command):
